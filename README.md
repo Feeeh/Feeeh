@@ -6,7 +6,7 @@
 
 **Principais Projetos**
 + [CardAR](https://github.com/cardapioAR/cardAR-web "CardAR") - Projeto de Cardápio com Realidade Aumentada da Faculdade
-+ - Feito para a Web usando HTML, CSS e JS. Com banco de dados em MongoDB
++ + Protótipo para a Web usando HTML, CSS e JS. Banco de dados em MongoDB
 
 **Principais Habilidades**
 + C# (◼️◼️◻️◻️◻️)
