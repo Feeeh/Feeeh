@@ -22,4 +22,4 @@
 + + Bootstrap (◼️◼️◻️◻️◻️)
 + JavaScript (◼️◻️◻️◻️◻️)
 
-> **Atualmente aprendendo C# e ASP.NET**
+> **Aprendendo C# e ASP.NET**
