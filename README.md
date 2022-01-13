@@ -10,14 +10,14 @@
 
 **Principais Habilidades**
 + C# (◼️◼️◻️◻️◻️)
-+ - Unity (◼️◼️◻️◻️◻️)
-+ - ASP.NET (◼️◻️◻️◻️◻️)
++ + Unity (◼️◼️◻️◻️◻️)
++ + ASP.NET (◼️◻️◻️◻️◻️)
 + C++ (◼️◼️◻️◻️◻️)
-+ - Unreal Engine (◼️◻️◻️◻️◻️)
++ + Unreal Engine (◼️◻️◻️◻️◻️)
 + Java (◼️◼️◻️◻️◻️)
-+ - Android (◼️◻️◻️◻️◻️)
++ + Android (◼️◻️◻️◻️◻️)
 + HTML/CSS (◼️◼️◼️◻️◻️)
-+ - Bootstrap (◼️◼️◻️◻️◻️)
++ + Bootstrap (◼️◼️◻️◻️◻️)
 + JavaScript (◼️◻️◻️◻️◻️)
 
 > **Atualmente aprendendo C# e ASP.NET**
