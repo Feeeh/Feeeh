@@ -1,7 +1,9 @@
 **Olá! Eu sou o Felipe!**
 
 **Estagiário em Desenvolvimento de Software**
+
 **Atualmente trabalho na FIESP**
+
 **[Curriculo Atualizado](https://curriculum.hifeeeh.com/ "Curriculo Atualizado")**
 
 **Principais Projetos**
