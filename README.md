@@ -5,8 +5,8 @@
 **[Curriculo Atualizado](https://curriculum.hifeeeh.com/ "Curriculo Atualizado")**
 
 **Principais Projetos**
-+ [CardAR](https://github.com/cardapioAR/cardAR-web "CardAR") - Projeto de Cardápio com Realidade Aumentada da Faculdade
-+ + Protótipo para a Web usando HTML, CSS e JS. Banco de dados em MongoDB
++ [CardAR](https://github.com/cardapioAR "CardAR") - Projeto de Cardápio com Realidade Aumentada da Faculdade
++ + [Protótipo](https://github.com/cardapioAR/cardAR-web "Protótipo") para a Web usando HTML, CSS e JS. Banco de dados em MongoDB
 
 **Principais Habilidades**
 + C# (◼️◼️◻️◻️◻️)
