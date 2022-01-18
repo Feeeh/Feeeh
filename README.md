@@ -17,8 +17,10 @@
 + + Unreal Engine (◼️◻️◻️◻️◻️)
 + Java (◼️◼️◻️◻️◻️)
 + + Android (◼️◻️◻️◻️◻️)
-+ HTML/CSS (◼️◼️◼️◻️◻️)
++ Web (◼️◼️◻️◻️◻️)
++ + HTML (◼️◼️◼️◻️◻️)
++ + CSS (◼️◼️◻️◻️◻️)
 + + Bootstrap (◼️◼️◻️◻️◻️)
-+ JavaScript (◼️◻️◻️◻️◻️)
++ + JavaScript (◼️◻️◻️◻️◻️)
 
 > **Aprendendo C# e ASP.NET**
