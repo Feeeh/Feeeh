@@ -20,7 +20,7 @@
 + Web (◼️◼️◻️◻️◻️)
 + + HTML (◼️◼️◼️◻️◻️)
 + + CSS (◼️◼️◻️◻️◻️)
-+ + Bootstrap (◼️◼️◻️◻️◻️)
 + + JavaScript (◼️◻️◻️◻️◻️)
++ + Bootstrap (◼️◼️◻️◻️◻️)
 
 > **Aprendendo C# e ASP.NET**
