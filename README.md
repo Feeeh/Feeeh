@@ -7,7 +7,7 @@
 **Principais Projetos**
 + [CardAR](https://github.com/cardapioAR "CardAR") - Projeto de Cardápio com Realidade Aumentada da Faculdade
 + + [Protótipo](https://github.com/cardapioAR/cardAR-web "Protótipo") para a Web usando HTML, CSS e JS. Banco de dados em MongoDB
-+ [glitch k!d](https://github.com/glitchk1d "glitch k!d") - Em breve (Projeto de Desenvolvimento de Jogos)
++ [glitch k!d](https://github.com/glitch-kid "glitch k!d") - Em breve (Projeto de Desenvolvimento de Jogos)
 
 **Principais Habilidades**
 + C# (◼️◼️◻️◻️◻️)
