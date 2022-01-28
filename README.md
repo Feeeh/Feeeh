@@ -2,6 +2,8 @@
 
 **Estagiário em Desenvolvimento de Software, atualmente trabalhando na FIESP**
 
+**Estudante de Ciências da Computação na FAM - Faculdade das Américas**
+
 **[Curriculo Atualizado](https://curriculum.hifeeeh.com/ "Curriculo Atualizado")**
 
 **Principais Projetos**
