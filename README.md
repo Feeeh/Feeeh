@@ -12,9 +12,9 @@
 + [glitch k!d](https://github.com/glitch-kid "glitch k!d") - Em breve (Projeto de Desenvolvimento de Jogos)
 
 **Principais Habilidades**
-+ C# (◼️◼️◻️◻️◻️)
++ C# (◼️◼️◼️◻️◻️)
 + + Unity (◼️◼️◻️◻️◻️)
-+ + ASP.NET (◼️◻️◻️◻️◻️)
++ + ASP.NET (◼️◼️◻️◻️◻️)
 + C++ (◼️◼️◻️◻️◻️)
 + + Unreal Engine (◼️◻️◻️◻️◻️)
 + Java (◼️◼️◻️◻️◻️)
