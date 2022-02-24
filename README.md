@@ -1,4 +1,4 @@
-**Olá! Eu sou o Felipe!**
+**Olá! Eu sou o Felipe! :)**
 
 **Estagiário em Desenvolvimento de Software, atualmente trabalhando na FIESP/CIESP/SESI/SENAI**
 
