@@ -14,7 +14,7 @@
 **Principais Habilidades**
 + C# (◼️◼️◼️◻️◻️)
 + + Unity (◼️◼️◻️◻️◻️)
-+ + ASP.NET (◼️◼️◻️◻️◻️)
++ + ASP.NET (◼️◼️◼️◻️◻️)
 + C++ (◼️◼️◻️◻️◻️)
 + + Unreal Engine (◼️◻️◻️◻️◻️)
 + Java (◼️◼️◻️◻️◻️)
@@ -25,4 +25,4 @@
 + + JavaScript (◼️◻️◻️◻️◻️)
 + + Bootstrap (◼️◼️◻️◻️◻️)
 
-> **Aprendendo C# e ASP.NET**
+> **Aprendendo C#, ASP.NET e JavaScript**
