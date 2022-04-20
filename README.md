@@ -11,18 +11,4 @@
 + + [Protótipo](https://github.com/cardapioAR/cardAR-web "Protótipo") para a Web usando HTML, CSS e JS. Banco de dados em MongoDB
 + [glitch k!d](https://github.com/glitch-kid "glitch k!d") - Em breve (Projeto de Desenvolvimento de Jogos)
 
-**Principais Habilidades**
-+ C# (◼️◼️◼️◻️◻️)
-+ + Unity (◼️◼️◻️◻️◻️)
-+ + ASP.NET (◼️◼️◼️◻️◻️)
-+ C++ (◼️◼️◻️◻️◻️)
-+ + Unreal Engine (◼️◻️◻️◻️◻️)
-+ Java (◼️◼️◻️◻️◻️)
-+ + Android (◼️◻️◻️◻️◻️)
-+ Web
-+ + HTML (◼️◼️◼️◻️◻️)
-+ + CSS (◼️◼️◻️◻️◻️)
-+ + JavaScript (◼️◻️◻️◻️◻️)
-+ + Bootstrap (◼️◼️◻️◻️◻️)
-
 > **Aprendendo C#, ASP.NET e JavaScript**
