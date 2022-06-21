@@ -7,9 +7,10 @@
 **[Curriculo Atualizado](https://curriculum.hifeeeh.com/ "Curriculo Atualizado")**
 
 **Principais Projetos**
+
 *FIESP/CIESP/SESI/SENAI*
 + [Programa Atleta do Futuro](https://www.sesisp.org.br/esporte/atleta-do-futuro-paf?menu=paf "Programa Atleta do Futuro") - Menu lateral
-+ [INDUSPREV Flex](https://indusprev.com.br/ "INDUSPREV") - Finalização do Backend, Correção de bugs e manutenção
++ [INDUSPREV Flex](https://indusprev.com.br/ "INDUSPREV") - Finalização do backend, correção de bugs e manutenção
 
 *Outros*
 + [CardAR](https://github.com/cardapioAR "CardAR") - Projeto de Cardápio com Realidade Aumentada da Faculdade
