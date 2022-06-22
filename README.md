@@ -10,7 +10,7 @@
 
 *FIESP/CIESP/SESI/SENAI*
 + [Programa Atleta do Futuro](https://www.sesisp.org.br/esporte/atleta-do-futuro-paf?menu=paf "Programa Atleta do Futuro") - Menu lateral
-+ [Jornada de Transformação Digital](https://jornadadigital.sp.senai.br/ "Jornada de Transformação Digital") - Auxílio ao frontend com JavaScript
++ [Jornada de Transformação Digital](https://jornadadigital.sp.senai.br/ "Jornada de Transformação Digital") - Auxílio ao frontend
 + [INDUSPREV Flex](https://indusprev.com.br/ "INDUSPREV") - Finalização do backend, correção de bugs e manutenção
 
 *Outros*
