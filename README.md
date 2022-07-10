@@ -9,6 +9,7 @@
 **Principais Projetos**
 
 *FIESP/CIESP/SESI/SENAI*
++ [Página de Conteúdos - SESI/Para Indústria](https://www.sesisp.org.br/para-industria/conteudos "Página de Conteúdos - SESI/Para Indústria") - Backend e adicionais no frontend
 + [Programa Atleta do Futuro](https://www.sesisp.org.br/esporte/atleta-do-futuro-paf?menu=paf "Programa Atleta do Futuro") - Menu lateral
 + [Jornada de Transformação Digital](https://jornadadigital.sp.senai.br/ "Jornada de Transformação Digital") - Auxílio ao frontend
 + [INDUSPREV Flex](https://indusprev.com.br/ "INDUSPREV") - Finalização do backend, correção de bugs e manutenção
