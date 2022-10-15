@@ -9,6 +9,7 @@
 **Principais Projetos** (Por ordem de data)
 
 *FIESP/CIESP/SESI/SENAI*
++ [Jornada de Transformação Digital - Cadastro de Fornecedor](https://jornadadigital-cadastro.sp.senai.br/ "Jornada de Transformação Digital - Cadastro de Fornecedor") - Modelagem de dados, backend e alterações no front-end
 + [EM DEFESA DA DEMOCRACIA E DA JUSTIÇA](https://www.defesademocraciaejustica.com.br/ "EM DEFESA DA DEMOCRACIA E DA JUSTIÇA") - Manutenção no Frontend
 + [Página de Conteúdos - SESI/Para Indústria](https://www.sesisp.org.br/para-industria/conteudos "Página de Conteúdos - SESI/Para Indústria") - Backend e adicionais no frontend
 + [Programa Atleta do Futuro](https://www.sesisp.org.br/esporte/atleta-do-futuro-paf?menu=paf "Programa Atleta do Futuro") - Menu lateral
