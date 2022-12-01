@@ -6,7 +6,7 @@
 
 **[Curriculo Atualizado](https://curriculum.glitchk.id/ "Curriculo Atualizado")**
 
-**Principais Projetos** (Por ordem de data)
+**Principais Projetos**
 
 *FIESP/CIESP/SESI/SENAI*
 + [Jornada de Transformação Digital](https://jornadadigital.sp.senai.br/ "Jornada de Transformação Digital") - Manutenção no frontend
