@@ -1,6 +1,6 @@
 **Olá! Eu sou o Felipe! :)**
 
-**Estagiário em Desenvolvimento de Software, atualmente trabalhando na FIESP/CIESP/SESI/SENAI**
+**Técnico em Programação, atualmente trabalhando no SESI (Porém realizo projetos para FIESP/CIESP/SENAI também)**
 
 **Estudante de Ciências da Computação na FAM - Faculdade das Américas**
 
